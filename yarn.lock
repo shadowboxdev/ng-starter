@@ -148,17 +148,17 @@
   dependencies:
     "@typescript-eslint/experimental-utils" "4.23.0"
 
-"@angular-extensions/elements@~12.6.0":
-  version "12.6.0"
-  resolved "https://registry.yarnpkg.com/@angular-extensions/elements/-/elements-12.6.0.tgz#228ca7efdb79b6d3c5d315751d5a368c32de8d24"
-  integrity sha512-wKDl1Ap2EjTMaYJhjCxpMajzM09ubmYO2ulMNck/dSw+oYA4OopG4wuKaMGMB3uBsZFcUDxhRJdjAz+raDJloA==
+"@angular-extensions/elements@~13.0.0":
+  version "13.0.0"
+  resolved "https://registry.yarnpkg.com/@angular-extensions/elements/-/elements-13.0.0.tgz#82d97f9e33cb21d44b56bae160f49bf750bf9784"
+  integrity sha512-Y46G71Vy7/BBb4uXDeJ006jl8pCKgO6MVCyoapXhZZYuxj5T+ed19T19jLZbOQrlVV5ywU+nnn1TjI+iTACUdg==
   dependencies:
     tslib "^2.1.0"
 
-"@angular-extensions/model@^10.0.1":
-  version "10.0.1"
-  resolved "https://registry.yarnpkg.com/@angular-extensions/model/-/model-10.0.1.tgz#54ffa901003fa917e3b0047486bf3fbb6555c46e"
-  integrity sha512-LdzkpIJxQt5IF0d8yfeIu+9v3QpUI9Bie7NfWMc/4MeeT3LWt3AWMnqbZYqFkuYI/NiCyzFfJeV511wJshBRxA==
+"@angular-extensions/model@^12.0.0":
+  version "12.0.0"
+  resolved "https://registry.yarnpkg.com/@angular-extensions/model/-/model-12.0.0.tgz#bc8b939ee4a07ca700109b687362a4562ceace0a"
+  integrity sha512-CHMSlVmFu5HEKghGyC4ES5OF4Gbr7eKg+BG9lFL9XSb/qTHQ3OtxgIVvX6kk8UbMNdPA+kuz1SekE79yR1gFKw==
   dependencies:
     tslib "^2.0.0"
 
